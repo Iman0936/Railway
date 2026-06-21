@@ -19,8 +19,11 @@
 
 ### 📸 نمای کلی پنل
 <p align="center">
-  <img src="img/sc.jpg" alt="پنل V2X - تصویر ۱" width="45%" />
-  <img src="img/sc2.jpg" alt="پنل V2X - تصویر ۲" width="45%" />
+  <img src="img/sc.jpg" alt="پنل V2X - تصویر ۱" width="70%" />
+</p>
+
+<p align="center">
+  <img src="img/sc2.jpg" alt="پنل V2X - تصویر ۲" width="70%" />
 </p>
 
 </div>
