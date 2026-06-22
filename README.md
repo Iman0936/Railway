@@ -201,7 +201,7 @@ The repository is kept intentionally minimal. Everything required for production
 
 | Hosting Platform | Included Free Bandwidth | Cost Per Extra GB (Approx.) |
 | --- | --- | --- |
-| **Render** | 100 GB / month | `$0.10 / GB` |
+| **Render** | 5 GB / month | `$0.10 / GB` |
 | **Railway** | Pay as you go | `$0.10 / GB` |
 | **Koyeb** | 5 GB / month | `$0.04` to `$0.10 / GB` |
 | **Fly.io** | Varies by region | `$0.02 / GB` |
